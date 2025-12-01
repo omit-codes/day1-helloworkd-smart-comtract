@@ -1,7 +1,7 @@
 # day 1 - HelloWorld smart contract
 This is my first smart contract written in Solidity as part of my 30-day blockchain development challenge.
 
-## comtract 
+## contract 
 
 - Filename: HelloWorld.sol
 - Purpose: Returns a string "Hello Blackchain!"
